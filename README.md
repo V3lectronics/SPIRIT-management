@@ -5,7 +5,7 @@ A file to keep track of people working on different areas of the SPIRIT Smartpho
 ## Schematic
 | Section | Person | Status | Notes |
 |-----------|--------|--------|-------|
-| Audio     | Engineer | Working | reading datasheet |
+| Audio     | Engineer | Working | Resarching replacement speakers |
 | Display   | Engineer | On Hold | Waiting for harware test |
 
 ## PCB
