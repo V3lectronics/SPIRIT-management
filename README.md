@@ -11,5 +11,14 @@ A file to keep track of people working on different areas of the SPIRIT Smartpho
 ## PCB
 
 ## Drivers
+| Section | Person | Status | Notes |
+|-----------|--------|--------|-------|
+| Audio     | Wanderer | Working | Adding proper parameters to the template |
 
 ## OS
+
+## miscellaneous 
+
+| Section     | Person | Status  | Notes |
+|-------------|--------|---------|-------|
+| Pre commits | Aris   | On Hold | Waiting for review |
