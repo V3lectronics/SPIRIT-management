@@ -13,7 +13,7 @@ A file to keep track of people working on different areas of the SPIRIT Smartpho
 ## Drivers
 | Section | Person | Status | Notes |
 |-----------|--------|--------|-------|
-| Audio     | Wanderer | Working | Adding proper parameters to the template |
+| GPS & GSM     | Wanderer | Working | None |
 
 ## OS
 
